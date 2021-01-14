@@ -1,5 +1,5 @@
 [test]
-10.154.0.23
+# Put internal IP addresses here
 
 [test:vars]
 ansible_user=Admin
